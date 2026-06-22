@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "url": "https://github.com/Smartcar-HXD/AR-HUD/releases/download/v1.0/AR-HUD-v1.0.zip",
-    "notes": "初始版本"
+    "notes": "更新内容：\n- 图片/视频/摄像头模式自动检测\n- 右侧面板字体统一16px"
 }
